@@ -5,11 +5,11 @@
 
 ## **실습 환경 구축**
 
-[출석](https://github.com/woowacourse/java-attendance) 저장소를 기반으로 미션을 진행한다. [온라인 코드 리뷰 요청 1단계](https://github.com/woowacourse/woowacourse-docs/blob/master/maincourse/review-step1.md) 문서를 참고해 실습 환경을 구축한다.
+[출석](https://github.com/COW-edu/practice-oop-attendance) 저장소를 기반으로 미션을 진행한다.
 
-1. 미션 시작 버튼을 눌러 미션을 시작한다.
-2. 저장소에 자신의 GitHub 아이디로 된 브랜치가 생성되었는지 확인한다.
-3. 저장소를 자신의 계정으로 Fork 한다.
+1. COW-edu Repo 내 자신의 이름으로 브랜치 생성
+2. practice-oop-attendance Fork 후 작업
+3. Fork된 Local Repo에서 작업 후 Cow-edu Repo의 1번에서 생성한 브랜치로 PR 생성
 
 ## **기능 요구 사항**
 
